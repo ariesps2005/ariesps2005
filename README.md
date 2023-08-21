@@ -11,7 +11,7 @@
 - Configuring Object Interaction in Unity / Настройка взаимодействия объектов в Unity. [Cat Story 2D Platformer](https://github.com/ariesps2005/NewRepository_CatStory), [Arkanoid](https://github.com/ariesps2005/Arkanoid)
   , [Tanks 2D](https://github.com/ariesps2005/TANKS-2D), [CardGame (in collab with Kihsad)](https://github.com/kihsad/CardGame.git)
 - Creating Pixel Art and Animations / Создание пиксельных изображений и анимаций. [Cat Story 2D Platformer](https://github.com/ariesps2005/NewRepository_CatStory), [Tanks 2D](https://github.com/ariesps2005/TANKS-2D)
-- Creating Music / Создание музыки. [Tanks 2D](https://github.com/ariesps2005/TANKS-2D), [Yandex Music Page](https://music.yandex.ru/artist/11207444)
+- Creating Music / Создание музыки. [Tanks 2D](https://github.com/ariesps2005/TANKS-2D), [Yandex Music Page](https://music.yandex.ru/artist/11207444), [SoundCloud](https://soundcloud.com/dspowerstorm)
 - C# Programming / Программирование на С#. [CardGame (in collab with Kihsad)](https://github.com/kihsad/CardGame.git)
 
 # Documents / Документы 
